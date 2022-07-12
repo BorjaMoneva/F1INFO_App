@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">F1 INFO</string>
+    <string name="etEmail">Correo electronico</string>
+    <string name="etNombre">Nombre de Usuario</string>
+    <string name="etContraseña">Contraseña</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnRegistro">Registrarse</string>
+    <string name="tituloPuntos">Sistema de puntos por carrera</string>
+    <string name="tituloHistoria">Historia de la Formula 1</string>
+    <string name="tituloCircuito">Calendario Oficial 2022</string>
+    <string name="tituloPilotos">Pilotos oficiales 2022</string>
+    <string name="tituloEscuderias">Escuderias oficiales 2022</string>
+    <string name="tituloDetalleCircuito">Detalle del gran premio</string>
+    <string name="longitud">Longitud del gran premio</string>
+    <string name="nVueltas">Vueltas totales</string>
+    <string name="distancia">Distancia total de carrera</string>
+    <string name="primerGp">Primer año que se disputo</string>
+    <string name="tituloDetalleEscuderia">Detalle de la escuderia</string>
+    <string name="jefeEscuderia">Jefe de la escuderia</string>
+    <string name="jefeTecnico">Jefe tecnico</string>
+    <string name="chasis">Chasis/Nombre del coche</string>
+    <string name="motor">Unidad de motor</string>
+    <string name="tituloE">Titulos de constructores</string>
+    <string name="tituloDetallePiloto">Detalle del piloto</string>
+    <string name="nPodio">Numero de podios</string>
+    <string name="nVictoria">Numero de victorias</string>
+    <string name="gpDisputados">Grandes premios disputados</string>
+    <string name="cumpleaños">Fecha de nacimiento</string>
+    <string name="nVueltasR">Numero de vueltas rapidas</string>
+    <string name="tituloP">Titulos de piloto</string>
+    <string name="escuderia">Escuderia</string>
+
+    <string-array name="historia_array">
+        <item>Selección</item>
+        <item>Los años 50</item>
+        <item>Los años 60</item>
+        <item>Los años 70</item>
+        <item>1978</item>
+        <item>Los años 80</item>
+        <item>Los años 90</item>
+        <item>1994</item>
+        <item>La leyenda del ‘Káiser’</item>
+        <item>La época dorada del automovilismo español</item>
+        <item>2009</item>
+        <item>2010 hasta ahora</item>
+    </string-array>
+</resources>
